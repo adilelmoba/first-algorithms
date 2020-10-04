@@ -1,2 +1,2 @@
 # myFirstAlgorithms
-quelques premiers tp d'algorithmes.
+quelques premiers tps d'algorithmes.
